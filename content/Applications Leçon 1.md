@@ -2,12 +2,38 @@
 publish: true
 title: Applications Leçon 1
 created: 2026-11-18T11:58:57.876Z
-modified: 2026-11-19T00:48:06.976Z
+modified: 2026-11-19T12:47:59.602Z
 ---
 
 # 1 - VERSION
 
 Lisez phonétiquement les sténogrammes suivants, puis traduisez-les avant de les dessiner dans l'espace et de les calligraphier :
+
+## [[Leçon 1 - Flashcards]]
+
+---
+
+## Tableau des corrigés
+
+|     | a)                               |                   |                             | b)                                  |                      |                  | c)                                       |                           |                             | d)                                             |                                 |                                        | e)                                               |                                |                      | f)                                                      |                                          |                       |
+| --- | -------------------------------- | ----------------- | --------------------------- | ----------------------------------- | -------------------- | ---------------- | ---------------------------------------- | ------------------------- | --------------------------- | ---------------------------------------------- | ------------------------------- | -------------------------------------- | ------------------------------------------------ | ------------------------------ | -------------------- | ------------------------------------------------------- | ---------------------------------------- | --------------------- |
+|     | Sténogramme                      | Composition       | Traductions                 | Sténogramme                         | Composition          | Traductions      | Sténogramme                              | Composition               | Traductions                 | Sténogramme                                    | Composition                     | Traductions                            | Sténogramme                                      | Composition                    | Traductions          | Sténogramme                                             | Composition                              | Traductions           |
+| 1   | ![[(t, d 1)-(ou 2)_u.svg\|76]]   | (t, d 1)-(ou 2)   | tout, doux, toux            | ![[(ou 1)-(s, z)_u.svg\|76]]        | (ou 1)-(s, z)        | housse           | ![[(s, z)-(eu, un 1)_u.svg\|76]]         | (s, z)-(eu, un 1)         | ce, ceux                    | ![[(p, b)-(i, ui 1)-(s, z)_u.svg\|76]]         | (p, b)-(i, ui 1)-(s, z)         | puisse, pisse, bise, bis, puise        | ![[(r 1)-(ou 1)-(s, z)_u.svg\|76]]               | (r 1)-(ou 1)-(s, z)            | rousse               | ![[(t, d 1)-(n, gn 2)-(u, une 2)_u.svg\|76]]            | (t, d 1)-(n, gn 2)-(u, une 2)            | tenu, tenue           |
+| 2   | ![[(p, b)-(i, ui 1)_u.svg\|76]]  | (p, b)-(i, ui 1)  | puis, puits, buis, pie, pi  | ![[(eu, un 2)-(r 1)_u.svg\|76]]     | (eu, un 2)-(r 1)     | heure, heurts    | ![[(t, d 1)-(i, ui 1)_u.svg\|76]]        | (t, d 1)-(i, ui 1)        | dit, die                    | ![[(s, z)-(u, une 1)-(c, g 1)_u.svg\|76]]      | (s, z)-(u, une 1)-(c, g 1)      | suc                                    | ![[(f, v)-(i, ui 2)-(t, d 1)_u.svg\|76]]         | (f, v)-(i, ui 2)-(t, d 1)      | vite, vide, fuite    | ![[(p, b)-(r 1)-(u, une 2)-(m 1)-(eu, un 1)_u.svg\|76]] | (p, b)-(r 1)-(u, une 2)-(m 1)-(eu, un 1) | brumeux               |
+| 3   | ![[(s, z)-(i, ui 1)_u.svg\|76]]  | (s, z)-(i, ui 1)  | si, suis, ci, scie, suie    | ![[(ou 1)-(f, v)_u.svg\|76]]        | (ou 1)-(f, v)        | ouf              | ![[(r 1)-(u, une 2)-(t, d 1)_u.svg\|76]] | (r 1)-(u, une 2)-(t, d 1) | rude, rut                   | ![[(p, b)-(r 1)-(i, ui 1)_u.svg\|76]]          | (p, b)-(r 1)-(i, ui 1)          | pris, bruit, prie, prix, bris          | ![[(f, v)-(r 1)-(i, ui 1)_u.svg\|76]]            | (f, v)-(r 1)-(i, ui 1)         | fruits, frit         | ![[(ou 1)-(t, d 1)-(i, ui 1)_u.svg\|76]]                | (ou 1)-(t, d 1)-(i, ui 1)                | outils                |
+| 4   | ![[(f, v)-(eu, un 1)_u.svg\|76]] | (f, v)-(eu, un 1) | veux, feu, voeux            | ![[(u, une 1)-(s, z)_u.svg\|76]]    | (u, une 1)-(s, z)    | eussent, us, use | ![[(r 1)-(i, ui 1)_u.svg\|76]]           | (r 1)-(i, ui 1)           | rit, riz, ris               | ![[(f, v)-(l, ll 1)-(ou 1)_u.svg\|76]]         | (f, v)-(l, ll 1)-(ou 1)         | flou                                   | ![[(r 1)-(i, ui 2)-(t, d 1)_u.svg\|76]]          | (r 1)-(i, ui 2)-(t, d 1)       | rides, rite          | ![[(p, b)-(r 1)-(i, ui 1)-(s, z)_u.svg\|76]]            | (p, b)-(r 1)-(i, ui 1)-(s, z)            | prise, brise, bruisse |
+| 5   | ![[(r 1)-(ou 1)_u.svg\|76]]      | (r 1)-(ou 1)      | roues, roux                 | ![[(i, ui 1)-(f, v)_u.svg\|76]]     | (i, ui 1)-(f, v)     | if               | ![[(p, b)-(u, une 1)_u.svg\|76]]         | (p, b)-(u, une 1)         | pu, bu, pue                 | ![[(j, ch 1)-(n, gn 1)-(ou 1)_u.svg\|76]]      | (j, ch 1)-(n, gn 1)-(ou 1)      | genoux                                 | ![[(j, ch 2)-(u, une 2)-(j, ch 1)_a_u.svg\|116]] | (j, ch 2)-(u, une 2)-(j, ch 1) | juge                 | ![[(f, v)-(eu, un 1)-(f, v)_u.svg\|76]]                 | (f, v)-(eu, un 1)-(f, v)                 | veuve                 |
+| 6   | ![[(f, v)-(ou 1)_u.svg\|76]]     | (f, v)-(ou 1)     | vous, fou                   | ![[(i, ui 1)-(l, ll 1)_u.svg\|76]]  | (i, ui 1)-(l, ll 1)  | il, île, huile   | ![[(c, g 1)-(ou 1)_u.svg\|76]]           | (c, g 1)-(ou 1)           | coup, goût, cou, coût, coud | ![[(l, ll 1)-(i, ui 1)-(s, z)_u.svg\|76]]      | (l, ll 1)-(i, ui 1)-(s, z)      | lisse, lis, lisent, lys, luisent, lice | ![[(j, ch 2)-(u, une 2)-(t, d 1)_u.svg\|76]]     | (j, ch 2)-(u, une 2)-(t, d 1)  | chute, chut, jute    | ![[(m 2)-(ou 2)-(j, ch 1)_u.svg\|76]]                   | (m 2)-(ou 2)-(j, ch 1)                   | mouche                |
+| 7   | ![[(s, z)-(ou 1)_u.svg\|76]]     | (s, z)-(ou 1)     | sous, saoul, soûl           | ![[(u, une 1)-(m 1)_u.svg\|76]]     | (u, une 1)-(m 1)     | eûmes, hume      | ![[(j, ch 1)-(ou 1)_u.svg\|76]]          | (j, ch 1)-(ou 1)          | joue, chou, joug            | ![[(s, z)-(u, une 1)-(t, d 1)_u.svg\|76]]      | (s, z)-(u, une 1)-(t, d 1)      | sud, zut                               | ![[(f, v)-(i, ui 1)-(j, ch 1)_u.svg\|76]]        | (f, v)-(i, ui 1)-(j, ch 1)     | fiche, fige          | ![[(r 1)-(i, ui 1)-(f, v)_u.svg\|76]]                   | (r 1)-(i, ui 1)-(f, v)                   | rive                  |
+| 8   | ![[(f, v)-(i, ui 1)_u.svg\|76]]  | (f, v)-(i, ui 1)  | vie, fit, vit, fui, fi, fie | ![[(ou 1)-(p, b)_u.svg\|76]]        | (ou 1)-(p, b)        | houppe, houp     | ![[(m 2)-(ou 2)_u.svg\|76]]              | (m 2)-(ou 2)              | mou, moue                   | ![[(p, b)-(l, ll 1)-(i, ui 1)_u.svg\|76]]      | (p, b)-(l, ll 1)-(i, ui 1)      | pluie, plis, plie                      | ![[(p, b)-(ou 1)-(s, z)_u.svg\|76]]              | (p, b)-(ou 1)-(s, z)           | pousse, pouce, bouse | ![[(f, v)-(u, une 1)-(s, z)-(i, ui 1)_u.svg\|76]]       | (f, v)-(u, une 1)-(s, z)-(i, ui 1)       | fusil                 |
+| 9   | ![[(p, b)-(eu, un 1)_u.svg\|76]] | (p, b)-(eu, un 1) | peu, boeufs                 | ![[(u, une 1)-(j, ch 1)_u.svg\|76]] | (u, une 1)-(j, ch 1) | huche            | ![[(n, gn 2)-(u, une 2)_u.svg\|76]]      | (n, gn 2)-(u, une 2)      | nu                          | ![[(c, g 1)-(l, ll 1)-(ou 1)_u.svg\|76]]       | (c, g 1)-(l, ll 1)-(ou 1)       | clous, cloue                           | ![[(p, b)-(i, ui 1)-(p, b)_u.svg\|76]]           | (p, b)-(i, ui 1)-(p, b)        | pipe, bip            | ![[(p, b)-(r 1)-(i, ui 1)-(m 1)_u.svg\|76]]             | (p, b)-(r 1)-(i, ui 1)-(m 1)             | prime, prîmes         |
+| 10  | ![[(r 1)-(u, une 2)_u.svg\|76]]  | (r 1)-(u, une 2)  | rue                         | ![[(l, ll 1)-(ou 1)_u.svg\|76]]     | (l, ll 1)-(ou 1)     | loup, loue       | ![[(l, ll 1)-(i, ui 1)_u.svg\|76]]       | (l, ll 1)-(i, ui 1)       | lui, lit, lis, lie          | ![[(c, g 1)-(ou 1)-(c, g 2)-(ou 1)_u.svg\|76]] | (c, g 1)-(ou 1)-(c, g 2)-(ou 1) | coucou                                 | ![[(r 1)-(u, une 2)-(s, z)_u.svg\|76]]           | (r 1)-(u, une 2)-(s, z)        | russe, ruse          | ![[(p, b)-(u, une 1)-(j, ch 1)_u.svg\|76]]              | (p, b)-(u, une 1)-(j, ch 1)              | bûches                |
+
+Traductions : les autres homophones du Lexique sont des pluriels ou des conjugaisons, non gardés.
+
+---
+
+## Tableau sans lignes de base
 
 |     | a)                             |                   |                             | b)                                |                      |                             | c)                                     |                           |                             | d)                                           |                                 |                                        | e)                                             |                                |                      | f)                                                    |                                          |                       |
 | --- | ------------------------------ | ----------------- | --------------------------- | --------------------------------- | -------------------- | --------------------------- | -------------------------------------- | ------------------------- | --------------------------- | -------------------------------------------- | ------------------------------- | -------------------------------------- | ---------------------------------------------- | ------------------------------ | -------------------- | ----------------------------------------------------- | ---------------------------------------- | --------------------- |
@@ -22,6 +48,55 @@ Lisez phonétiquement les sténogrammes suivants, puis traduisez-les avant de le
 | 8   | ![[(f, v)-(i, ui 1).svg\|76]]  | (f, v)-(i, ui 1)  | vie, fit, vit, fui, fi, fie | ![[(ou 1)-(p, b).svg\|76]]        | (ou 1)-(p, b)        | houppe, houp (interjection) | ![[(m 2)-(ou 2).svg\|76]]              | (m 2)-(ou 2)              | mou, moue                   | ![[(p, b)-(l, ll 1)-(i, ui 1).svg\|76]]      | (p, b)-(l, ll 1)-(i, ui 1)      | pluie, plis, plie                      | ![[(p, b)-(ou 1)-(s, z).svg\|76]]              | (p, b)-(ou 1)-(s, z)           | pousse, pouce, bouse | ![[(f, v)-(u, une 1)-(s, z)-(i, ui 1).svg\|76]]       | (f, v)-(u, une 1)-(s, z)-(i, ui 1)       | fusil                 |
 | 9   | ![[(p, b)-(eu, un 1).svg\|76]] | (p, b)-(eu, un 1) | peu, boeufs                 | ![[(u, une 1)-(j, ch 1).svg\|76]] | (u, une 1)-(j, ch 1) | huche                       | ![[(n, gn 2)-(u, une 2).svg\|76]]      | (n, gn 2)-(u, une 2)      | nu                          | ![[(c, g 1)-(l, ll 1)-(ou 1).svg\|76]]       | (c, g 1)-(l, ll 1)-(ou 1)       | clous, cloue                           | ![[(p, b)-(i, ui 1)-(p, b).svg\|76]]           | (p, b)-(i, ui 1)-(p, b)        | pipe, bip            | ![[(p, b)-(r 1)-(i, ui 1)-(m 1).svg\|76]]             | (p, b)-(r 1)-(i, ui 1)-(m 1)             | prime, prîmes         |
 | 10  | ![[(r 1)-(u, une 2).svg\|76]]  | (r 1)-(u, une 2)  | rue                         | ![[(l, ll 1)-(ou 1).svg\|76]]     | (l, ll 1)-(ou 1)     | loup, loue                  | ![[(l, ll 1)-(i, ui 1).svg\|76]]       | (l, ll 1)-(i, ui 1)       | lui, lit, lis, lie          | ![[(c, g 1)-(ou 1)-(c, g 2)-(ou 1).svg\|76]] | (c, g 1)-(ou 1)-(c, g 2)-(ou 1) | coucou                                 | ![[(r 1)-(u, une 2)-(s, z).svg\|76]]           | (r 1)-(u, une 2)-(s, z)        | russe, ruse          | ![[(p, b)-(u, une 1)-(j, ch 1).svg\|76]]              | (p, b)-(u, une 1)-(j, ch 1)              | bûches                |
-Traductions : les autres homophones du Lexique sont des pluriels ou des conjugaisons, non gardés.
 
 ---
+
+# 2 - THÈME
+
+|     | a)       |              |             | b)       |              |             | c)      |              |             | d)     |              |             | e)        |              |             | f)       |              |             |
+| --- | -------- | ------------ | ----------- | -------- | ------------ | ----------- | ------- | ------------ | ----------- | ------ | ------------ | ----------- | --------- | ------------ | ----------- | -------- | ------------ | ----------- |
+|     | Mots     | Sténogrammes | Composition | Mots     | Sténogrammes | Composition | Mots    | Sténogrammes | Composition | Mots   | Sténogrammes | Composition | Mots      | Sténogrammes | Composition | Mots     | Sténogrammes | Composition |
+| 1   | mue      |              |             | chou     |              |             | glu     |              |             | fume   |              |             | prude     |              |             | mime     |              |             |
+| 2   | brou     |              |             | frise    |              |             | Lille   |              |             | nique  |              |             | broute    |              |             | douteux  |              |             |
+| 3   | frousse  |              |             | Line     |              |             | rhume   |              |             | route  |              |             | remue     |              |             | moussu   |              |             |
+| 4   | flou     |              |             | crime    |              |             | cric    |              |             | fiche  |              |             | vide      |              |             | Brie     |              |             |
+| 5   | hume     |              |             | dru      |              |             | curry   |              |             | bruine |              |             | mute      |              |             | tube     |              |             |
+| 6   | muse     |              |             | missel   |              |             | brousse |              |             | fuse   |              |             | cuisse    |              |             | Brive    |              |             |
+| 7   | mousse   |              |             | frime    |              |             | voûte   |              |             | déçu   |              |             | fûmes     |              |             | suite    |              |             |
+| 8   | fraise   |              |             | mise     |              |             | fût     |              |             | demi   |              |             | fûtes     |              |             | maigri   |              |             |
+| 9   | Bruges   |              |             | fidèle   |              |             | brève   |              |             | outil  |              |             | mouche    |              |             | bise     |              |             |
+| 10  | fougueux |              |             | creuse   |              |             | juif    |              |             | poulie |              |             | queue     |              |             | furie    |              |             |
+| 11  | digne    |              |             | crevette |              |             | frite   |              |             | frise  |              |             | Trèves    |              |             | Claire   |              |             |
+| 12  | Yves     |              |             | vigne    |              |             | fruit   |              |             | goulu  |              |             | mythe     |              |             | Lisette  |              |             |
+| 13  | graine   |              |             | saoul    |              |             | vilaine |              |             | type   |              |             | Russie    |              |             | Thérèse  |              |             |
+| 14  | ligne    |              |             | peureux  |              |             | heureux |              |             | triche |              |             | chêne     |              |             | Hubert   |              |             |
+| 15  | bruisse  |              |             | bougie   |              |             | plume   |              |             | soupe  |              |             | mine      |              |             | Ginette  |              |             |
+| 16  | crèche   |              |             | digue    |              |             | guigne  |              |             | diffus |              |             | fleuve    |              |             | Michel   |              |             |
+| 17  | cuite    |              |             | gaine    |              |             | fleuri  |              |             | touche |              |             | juteux    |              |             | Sousse   |              |             |
+| 18  | Jules    |              |             | Nice     |              |             | Metz    |              |             | genou  |              |             | douche    |              |             | en Grèce |              |             |
+| 19  | Reims    |              |             | Jim      |              |             | Gide    |              |             | Genève |              |             | Megève    |              |             | Messie   |              |             |
+| 20  | Rennes   |              |             | Chine    |              |             | Remy    |              |             | Grimm  |              |             | en Suisse |              |             | à Clichy |              |             |
+
+---
+
+# 3 - ANAGRAMMES STÉNOGRAPHIQUES
+
+a) Traduisez les sténogrammes ci-après.
+b) A droite des mots trouvés, écrivez leur anagramme[^1] en clair.
+c) Sténographiez ces anagrammes en veillant à les calligraphier.
+
+---
+
+# 4 - LECTURE
+
+Sténographiez deux fois chaque phrase de l'exercice de lecture ci-dessus et des exercices de lecture ultérieurs.
+
+---
+
+[^1]:  (\*) Par "anagramme sténographique", on entend le sténogramme obtenu au départ des sons d'un sténogramme donné :
+(vite, vide, fîtes, fuite)
+a pour anagramme sténographique
+défi, défit, devis, dévie.
+— Dans un souci de simplification typographique la notion d'anagramme sténographique sera traduite par le seul vocable "anagramme ".
+
+13

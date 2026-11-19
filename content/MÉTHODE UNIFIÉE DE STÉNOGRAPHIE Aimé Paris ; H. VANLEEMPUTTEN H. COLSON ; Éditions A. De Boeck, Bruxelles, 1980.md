@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Méthode unifiée de sténographie Aimé Paris - 1980
 title: MÉTHODE UNIFIÉE DE STÉNOGRAPHIE Aimé Paris ; H. VANLEEMPUTTEN H. COLSON ; Éditions A. De Boeck, Bruxelles, 1980
 created: 2026-09-25T12:29:33.000Z
-modified: 2026-11-19T00:47:21.625Z
+modified: 2026-11-19T10:52:33.449Z
 ---
 
 # Métagraphie
