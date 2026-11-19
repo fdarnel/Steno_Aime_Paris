@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="loua">
+        <path d="M43.996,76.003C43.996,62.752 54.741,52.01 67.995,52.01C81.249,52.01 91.994,62.752 91.994,76.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M91.994,76C91.994,71.582 95.575,68 99.993,68C104.412,68 107.993,71.582 107.993,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M99.999,76.003C99.999,78.212 101.792,80.005 104.001,80.005C106.21,80.005 108.004,78.212 108.004,76.003C108.004,73.794 106.21,72 104.001,72C101.792,72 99.999,73.794 99.999,76.003Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+    </g>
+</svg>

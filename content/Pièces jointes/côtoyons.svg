@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="côtoyons">
+        <path d="M104.829,-5.314L56.826,42.689" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path id="a--an--oi-9" affinity:id="a, an, oi 9" d="M53.999,45.515L56.828,42.686C56.828,42.686 53.999,39.858 53.999,39.858C52.437,38.296 49.905,38.296 48.343,39.858C46.78,41.42 46.78,43.953 48.342,45.515C49.905,47.077 52.437,47.077 53.999,45.515Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path id="o--on-7" affinity:id="o, on 7" d="M62.485,59.657C59.361,62.781 54.295,62.781 51.171,59.657C48.047,56.533 48.047,51.467 51.171,48.343L56.828,42.686L62.485,48.343C65.609,51.467 65.609,56.533 62.485,59.657Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+</svg>

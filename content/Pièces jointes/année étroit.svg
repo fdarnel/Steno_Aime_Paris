@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="36.800 0 94.397 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="année">
+        <path d="M56.002,56C58.211,56 60.005,54.207 60.005,51.998C60.005,49.789 58.211,47.995 56.002,47.995C53.793,47.995 52,49.789 52,51.998C52,54.207 53.793,56 56.002,56Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M99.997,52.007C99.997,59.584 96.484,66.341 90.997,70.738C86.889,74.031 81.674,76 75.999,76C62.745,76 52,65.258 52,52.007" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M99.997,52.007L115.997,52.007" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

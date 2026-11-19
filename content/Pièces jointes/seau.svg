@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="seau">
+        <path d="M96,76.003L48,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M88,84.003C88,79.588 91.585,76.003 96,76.003C100.415,76.003 104,79.588 104,84.003C104,88.418 100.415,92.003 96,92.003C91.585,92.003 88,88.418 88,84.003Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="indulgent">
+        <path d="M85.416,28L69.416,28.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M85.416,28L37.416,75.998" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-miterlimit:28.654;"/>
+        <path d="M37.416,92.007C32.996,92.007 29.412,88.423 29.412,84.003C29.412,79.582 32.996,75.998 37.416,75.998" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-miterlimit:28.654;"/>
+        <path d="M121.416,44.009C105.409,59.456 73.473,92.007 37.416,92.007" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2px;stroke-miterlimit:28.654;"/>
+        <path d="M121.416,38.349C122.978,39.911 122.978,42.447 121.416,44.009C119.854,45.571 117.318,45.571 115.756,44.009C114.194,42.447 114.194,39.911 115.756,38.349C117.318,36.787 119.854,36.787 121.416,38.349Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="parodie">
+        <path d="M26.116,28L26.116,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M20.134,78.789C17.607,79.968 17.725,83.281 19.288,84.843C20.85,86.406 23.382,86.406 24.944,84.843C25.726,84.062 26.116,83.038 26.116,82.014L26.116,76L20.116,78.796" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:28.654;"/>
+        <path d="M26.116,76L129.218,27.997L129.222,27.994" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:28.654;"/>
+        <path d="M107.277,28L120.201,15.096L120.195,15.1C120.519,14.777 120.875,14.478 121.262,14.206C124.877,11.675 129.859,12.554 132.39,16.169C134.921,19.783 134.043,24.765 130.428,27.296C130.04,27.568 129.636,27.8 129.222,27.994" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:28.654;"/>
+        <path d="M59.282,76L107.277,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-miterlimit:28.654;"/>
+        <path d="M75.282,76C75.282,80.418 71.7,84 67.282,84C62.863,84 59.282,80.418 59.282,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+    </g>
+</svg>

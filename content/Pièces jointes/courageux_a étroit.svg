@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="16.804 -40 210.392 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="courageux_a">
+        <path d="M55.996,76C48.419,76 41.663,72.487 37.266,67C33.973,62.892 32.004,57.677 32.004,52.001C32.004,38.747 42.746,28.003 55.996,28.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M71.996,76.003 C71.996,71.585 68.414,68.003 63.996,68.003 C59.577,68.003 55.996,71.585 55.996,76.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M71.996,76L119.996,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M119.996,28.013L118.341,28.013L118.342,28.009C117.317,28.009 116.292,27.618 115.510,26.836C113.946,25.272 113.946,22.737 115.510,21.173C117.074,19.609 119.609,19.609 121.173,21.173C122.737,22.737 122.737,25.272 121.173,26.836L121.173,26.823L119.996,28.000L119.996,28.013Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M203.996,-19.998 C187.989,-4.551 156.053,28.000 119.996,28.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M203.996,-19.998 C208.414,-19.998 211.996,-16.416 211.996,-11.998 C211.996,-7.580 208.414,-3.998 203.996,-3.998" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+    </g>
+</svg>

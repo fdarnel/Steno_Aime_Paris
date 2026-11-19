@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0.000 0.000 152.000 152.000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="bouillant">
+        <path d="M68.000,76.000 L68.000,28.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,0);stroke-width:2.08px;"/>
+        <path d="M68.000,76.000 C68.000,73.474 69.171,71.222 71.000,69.756 C72.370,68.658 74.108,68.002 76.000,68.002 C80.418,68.002 84.000,71.583 84.000,76.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M79.997,72.007 C77.788,72.007 75.995,73.800 75.995,76.009 C75.995,78.218 77.788,80.012 79.997,80.012 C82.206,80.012 84.000,78.218 84.000,76.009 C84.000,73.800 82.206,72.007 79.997,72.007 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="vanite" affinity:id="vanité">
+        <path d="M18.553,28L66.553,76" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M67.73,77.176L66.553,76L66.558,74.346C66.558,73.321 66.949,72.297 67.73,71.516C69.292,69.954 71.828,69.954 73.39,71.516C74.952,73.078 74.952,75.614 73.39,77.176C71.828,78.738 69.292,78.738 67.73,77.176Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M66.553,76C66.553,83.577 70.067,90.334 75.553,94.731C79.662,98.023 84.877,99.993 90.552,99.993C103.806,99.993 114.551,89.251 114.551,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M122.134,81.657L133.448,70.343" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

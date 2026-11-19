@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="roua">
+        <path d="M91.999,28L43.996,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M91.999,28C91.999,23.582 95.581,20 99.999,20C104.417,20 107.999,23.582 107.999,28" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M99.999,28.002C99.999,30.211 101.792,32.005 104.001,32.005C106.21,32.005 108.004,30.211 108.004,28.002C108.004,25.793 106.21,24 104.001,24C101.792,24 99.999,25.793 99.999,28.002Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g">
+        <path d="M44.006,67.809C44.006,81.060 54.750,91.802 68.004,91.802C81.258,91.802 92.003,81.060 92.003,67.809" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M92.008,67.614C92.008,69.823 90.217,71.614 88.008,71.614C85.799,71.614 84.008,69.823 84.008,67.614C84.008,65.405 85.799,63.614 88.008,63.614C90.217,63.614 92.008,65.405 92.008,67.614Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M107.994,68.198C107.994,72.617 104.412,76.198 99.994,76.198C95.575,76.198 91.994,72.617 91.994,68.198C91.994,63.780 95.575,60.198 99.994,60.198C104.412,60.198 107.994,63.780 107.994,68.198Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

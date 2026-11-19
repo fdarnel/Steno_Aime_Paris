@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="-40 -40 232 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="volcanique" affinity:id="volcanique">
+        <path d="M67.663,76 L19.663,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M67.663,76.006 L86.965,76.006 C89.017,76.004 91.071,76.784 92.635,78.35 C95.761,81.476 95.761,86.542 92.635,89.668 C89.511,92.792 84.443,92.792 81.319,89.668 L81.319,89.662 L67.663,76.006 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M67.663,124.003 C54.559,124.003 43.936,113.257 43.936,100.001 C43.936,86.746 54.559,76 67.663,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M75.836,120.001C75.836,117.792 74.045,116.001 71.836,116.001C69.627,116.001 67.836,117.792 67.836,120.001L67.836,124.001C67.836,124.001 71.836,124.001 71.836,124.001C74.045,124.001 75.836,122.21 75.836,120.001Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M115.836,124.001C115.836,137.252 105.091,147.994 91.837,147.994C78.583,147.994 67.839,137.252 67.839,124.001" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M132.336,144.714C132.336,149.132 128.754,152.714 124.336,152.714C119.918,152.714 116.336,149.132 116.336,144.714" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+    </g>
+</svg>

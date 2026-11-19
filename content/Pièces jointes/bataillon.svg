@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g">
+        <path d="M100.815,66.341L100.815,18.345" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M100.828,66.341L102.005,65.164L101.992,65.164C103.556,63.600 106.091,63.600 107.655,65.164C109.219,66.728 109.219,69.263 107.655,70.827C106.091,72.391 103.556,72.391 101.992,70.827C101.210,70.045 100.819,69.020 100.819,67.995L100.815,67.996L100.815,66.341L100.828,66.341Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M100.828,66.341L52.828,114.341" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M50.000,117.169L52.828,114.341C52.828,114.341 50.000,111.513 50.000,111.513C48.438,109.951 45.905,109.951 44.343,111.513C42.781,113.075 42.781,115.607 44.343,117.169C45.905,118.731 48.438,118.731 50.000,117.169Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M58.485,131.312C55.361,134.436 50.295,134.436 47.171,131.312C44.047,128.188 44.047,123.122 47.171,119.998L52.828,114.341L58.485,119.998C61.609,123.122 61.609,128.188 58.485,131.312Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

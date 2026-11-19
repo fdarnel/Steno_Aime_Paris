@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0.196 0.000 152.000 152.000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="croyant">
+        <path d="M59.167,76.000C51.589,76.000 44.833,72.487 40.436,67.000C37.143,62.892 35.174,57.677 35.174,52.001C35.174,38.747 45.916,28.003 59.167,28.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M59.170,76.000L107.170,28.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,0);stroke-width:2.08px;"/>
+        <path d="M109.998,25.172 L107.170,28.000 C107.170,28.000 109.998,30.828 109.998,30.828 C111.560,32.390 114.093,32.390 115.655,30.828 C117.217,29.266 117.217,26.734 115.655,25.172 C114.093,23.610 111.560,23.610 109.998,25.172 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M104.342,19.515 C105.904,17.953 108.436,17.953 109.998,19.515 C111.560,21.077 111.560,23.610 109.998,25.172 L107.170,28.000 L104.342,25.172 C102.780,23.610 102.780,21.077 104.342,19.515 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

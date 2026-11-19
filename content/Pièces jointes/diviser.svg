@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="diviser">
+        <path d="M77.04,76C77.04,76.574 76.574,77.04 76,77.04C75.426,77.04 74.96,76.574 74.96,76C74.96,75.426 75.426,74.96 76,74.96C76.574,74.96 77.04,75.426 77.04,76Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M77.04,60.04C77.04,60.614 76.574,61.08 76,61.08C75.426,61.08 74.96,60.614 74.96,60.04C74.96,59.466 75.426,59 76,59C76.574,59 77.04,59.466 77.04,60.04Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

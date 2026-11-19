@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="20.799 -40 108.622 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="élégante_b">
+        <path d="M51.999,76.000L35.999,76.000" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M51.999,76C51.999,62.745 62.978,52 75.999,52C89.019,52 99.999,62.745 99.999,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M100.001,76.003C86.751,76.003 76.009,86.747 76.009,100.001C76.009,113.255 86.751,124 100.001,124" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M100.172,124.000L109.823,123.999C110.849,124.001 111.876,123.610 112.659,122.827C114.221,121.265 114.221,118.731 112.659,117.169C111.096,115.606 108.563,115.606 107.000,117.169L107.000,117.172L100.172,124.000Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M100.001,124.000L52.001,172.000" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

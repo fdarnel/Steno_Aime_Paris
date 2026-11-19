@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="antioxydant" affinity:id="antioxydant">
+        <path d="M56.002,92 C60.42,92 64.006,88.412 64.006,83.994 C64.006,79.576 60.42,75.99 56.002,75.99 C51.584,75.99 47.998,79.576 47.998,83.994 C47.998,88.412 51.584,92 56.002,92 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M55.998,76 L104,76" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M56.002,124.005L104.002,76" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M50.342,118.343C51.904,116.781 54.44,116.781 56.002,118.343C57.564,119.905 57.564,122.441 56.002,124.003C54.44,125.565 51.904,125.565 50.342,124.003C48.78,122.441 48.78,119.905 50.342,118.343Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M67.325,95.315L44.678,72.668" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

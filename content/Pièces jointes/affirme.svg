@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="affirme">
+        <path d="M35.421,28.003C36.983,29.565 36.983,32.101 35.421,33.663C33.859,35.225 31.323,35.225 29.761,33.663C28.199,32.101 28.199,29.565 29.761,28.003C31.323,26.441 33.859,26.441 35.421,28.003Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M35.421,28.003L83.421,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-linejoin:miter;stroke-miterlimit:28.654;"/>
+        <path d="M99.418,76C99.418,80.418 95.836,84 91.418,84C87,84 83.418,80.418 83.418,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-linejoin:miter;stroke-miterlimit:28.654;"/>
+        <path d="M99.418,76.003C106.995,76.003 113.752,79.516 118.149,85.003C121.441,89.111 123.411,94.326 123.411,100.001C123.411,113.255 112.669,124 99.418,124" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-linejoin:miter;stroke-miterlimit:28.654;"/>
+    </g>
+</svg>

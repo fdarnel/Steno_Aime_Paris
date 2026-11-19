@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="ronge">
+        <path d="M76,28L28,76" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M78.339,25.661L75.987,28.013L72.679,28.003C70.629,28.003 68.581,27.223 67.019,25.661C63.895,22.537 63.895,17.465 67.019,14.341C70.143,11.217 75.215,11.217 78.339,14.341C81.463,17.465 81.463,22.537 78.339,25.661Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+        <path d="M124,-20.003C124,6.525 102.528,28 76,28" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2px;"/>
+    </g>
+</svg>

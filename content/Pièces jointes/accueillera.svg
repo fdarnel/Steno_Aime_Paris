@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="accueillera">
+        <path d="M56.574,32.005C56.574,34.214 58.368,36.008 60.577,36.008C62.786,36.008 64.579,34.214 64.579,32.005C64.579,29.796 62.786,28.003 60.577,28.003C58.368,28.003 56.574,29.796 56.574,32.005Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M60.577,76C53,76 46.243,72.487 41.846,67C38.553,62.892 36.584,57.677 36.584,52.001C36.584,38.747 47.326,28.003 60.577,28.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-linejoin:miter;"/>
+        <path d="M60.577,75.99C63.614,75.99 66.568,77.772 66.568,81.997C66.568,84.786 63.789,88.959 60.577,92" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-linejoin:miter;"/>
+        <path d="M59.27,83.314L70.584,72" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-linejoin:miter;"/>
+        <path d="M108.587,43.997L60.584,92" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-linejoin:miter;"/>
+        <path d="M108.584,49.66C110.146,51.222 112.682,51.222 114.244,49.66C115.806,48.098 115.806,45.562 114.244,44C112.682,42.438 110.146,42.438 108.584,44C107.022,45.562 107.022,48.098 108.584,49.66Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

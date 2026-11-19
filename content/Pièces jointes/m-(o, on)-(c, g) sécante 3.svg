@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="m--o--on---c--g--secante-3" affinity:id="m-(o, on)-(c, g) sécante 3">
+        <path d="M76.004,28.000 C89.258,28.000 100.004,38.980 100.004,52.000 C100.004,65.020 89.258,76.000 76.004,76.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M75.998,76.000 C80.416,76.000 84.004,72.413 84.004,67.996 C84.004,63.578 80.416,59.990 75.998,59.990 C71.579,59.990 67.994,63.578 67.994,67.996 C67.994,72.413 71.579,76.000 75.998,76.000 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M75.989,76.018 C62.738,76.018 51.996,86.762 51.996,100.016 C51.996,113.270 62.738,124.015 75.989,124.015" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M48.33,116.102L62.085,107.929" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

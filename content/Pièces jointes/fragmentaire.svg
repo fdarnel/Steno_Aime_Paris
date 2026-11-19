@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="fragmentaire" affinity:id="fragmentaire">
+        <path d="M72.584,76L24.584,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M72.584,76L120.584,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M126.245,33.66C124.683,35.222 122.146,35.222 120.584,33.66C119.022,32.098 119.022,29.562 120.584,28C122.146,26.438 124.683,26.438 126.245,28C127.807,29.562 127.807,32.098 126.245,33.66Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M124.453,18.747C124.453,19.322 123.987,19.787 123.413,19.787C122.839,19.787 122.373,19.322 122.373,18.747C122.373,18.173 122.839,17.707 123.413,17.707C123.987,17.707 124.453,18.173 124.453,18.747" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

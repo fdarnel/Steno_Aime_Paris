@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="émaillerie">
+        <path d="M52.157,12L52.157,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M52.157,76.003C59.154,68.637 69.216,59.852 71.147,46.865C72.807,35.699 67.597,28 52.16,28" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-miterlimit:28.654;"/>
+        <path d="M46.105,76.003C44.543,77.565 43.958,79.517 44.801,80.359C45.643,81.202 47.595,80.618 49.157,79.056L52.157,75.993" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:28.654;"/>
+        <path d="M94.105,28L46.102,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-miterlimit:28.654;"/>
+        <path d="M110.16,28C110.16,32.418 106.578,36 102.16,36C97.742,36 94.16,32.418 94.16,28" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M41.84,71.929L53.154,83.243" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="c-g-ateur" affinity:id="c(g)ateur">
+        <path d="M71.17,69.172C69.608,70.734 69.608,73.27 71.17,74.832C72.732,76.394 75.268,76.394 76.83,74.832C78.392,73.27 78.392,70.734 76.83,69.172C75.268,67.609 72.732,67.609 71.17,69.172Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M74.002,68C78.42,68 82.002,71.582 82.002,76C82.002,80.418 78.42,84 74.002,84" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;stroke-linejoin:miter;"/>
+    </g>
+</svg>

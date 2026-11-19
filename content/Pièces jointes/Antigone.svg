@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="Antigone" affinity:id="Antigone">
+        <path d="M63.998,28 C50.744,28 39.998,38.98 39.998,52 C39.998,65.02 50.744,76 63.998,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M79.999,68 C79.999,63.582 76.416,60 71.999,60 C67.582,60 63.998,63.582 63.998,68 L63.998,76 C63.998,76 71.999,76 71.999,76 C76.416,76 79.999,72.418 79.999,68 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M112.002,76 C112.002,89.251 101.258,99.993 88.002,99.993 C74.749,99.993 64.005,89.251 64.005,76" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M50.208,43.984L36.3,36.075" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M80.003,108.073L96.003,108.073" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

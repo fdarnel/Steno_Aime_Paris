@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="porto">
+        <path d="M98.805,76L98.805,28.004" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M98.832,76L101.186,73.646L101.16,73.646C104.287,70.518 109.358,70.518 112.485,73.646C115.614,76.774 115.614,81.844 112.485,84.972C109.358,88.1 104.287,88.1 101.16,84.972C99.596,83.408 98.814,81.358 98.814,79.308L98.805,79.31L98.805,76L98.832,76Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+        <path d="M98.832,76L50.832,124" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M50.832,112.68C53.956,115.804 53.956,120.876 50.832,124C47.708,127.124 42.636,127.124 39.512,124C36.388,120.876 36.388,115.804 39.512,112.68C42.636,109.554 47.708,109.554 50.832,112.68Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+    </g>
+</svg>

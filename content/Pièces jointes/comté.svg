@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="comte" affinity:id="comté">
+        <path d="M74.795,76C67.218,76 60.461,72.487 56.064,67C52.771,62.892 50.802,57.677 50.802,52.001C50.802,38.747 61.544,28.003 74.795,28.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M66.811,67.996 C66.811,63.578 70.397,59.99 74.815,59.99 C79.233,59.99 82.819,63.578 82.819,67.996 C82.819,72.414 79.233,76 74.815,76 C70.397,76 66.811,72.414 66.811,67.996 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M89.885,73.653L101.199,62.339" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

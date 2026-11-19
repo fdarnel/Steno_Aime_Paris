@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="-32.499 0 207.693 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="neurotransmetteur étroit">
+        <path d="M30.699,76.000C30.699,83.577 27.185,90.334 21.699,94.731C17.590,98.023 12.375,99.993 6.700,99.993C-6.554,99.993 -17.299,89.251 -17.299,76.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M78.699,28.000L30.699,76.000" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M78.699,28.000L85.982,20.717C89.106,17.593 94.172,17.593 97.296,20.717C100.420,23.841 100.420,28.906 97.296,32.031C94.172,35.155 89.106,35.155 85.982,32.031C82.858,28.906 82.858,23.841 85.982,20.717" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M124.005,28.000C143.882,28.000 159.994,49.488 159.994,75.996C159.994,102.504 143.882,123.994 124.005,123.994" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M124.003,123.960 C128.421,123.960 132.003,127.542 132.003,131.960 C132.003,136.378 128.421,139.960 124.003,139.960" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M136.603,3.998L88.601,52.002" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

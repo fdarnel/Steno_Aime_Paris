@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="entrevoir" affinity:id="entrevoir">
+        <path d="M28.3,32C28.3,34.209 26.509,36 24.3,36C22.091,36 20.3,34.209 20.3,32C20.3,29.791 22.091,28 24.3,28C26.509,28 28.3,29.791 28.3,32" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M83.7,76L35.7,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M83.7,76L80.872,78.828C79.309,80.391 79.309,82.923 80.872,84.485C82.434,86.047 84.966,86.047 86.528,84.485C88.091,82.923 88.09,80.391 86.528,78.828L83.7,76Z" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:2.08px;"/>
+        <path d="M83.7,76L131.7,28" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

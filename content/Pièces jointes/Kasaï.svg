@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="Kasaï">
+        <path d="M61.995,76C54.418,76 47.661,72.487 43.264,67C39.972,62.892 38.002,57.677 38.002,52.001C38.002,38.747 48.744,28.003 61.995,28.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M58.002,71.998C58.002,74.207 59.796,76 62.005,76C64.214,76 66.007,74.207 66.007,71.998C66.007,69.789 64.214,67.995 62.005,67.995C59.796,67.995 58.002,69.789 58.002,71.998Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+        <path d="M109.995,76L61.995,76" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M105.993,80.002C105.993,82.211 107.786,84.005 109.995,84.005C112.204,84.005 113.998,82.211 113.998,80.002C113.998,77.793 112.204,76 109.995,76C107.786,76 105.993,77.793 105.993,80.002Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;"/>
+        <path d="M109.995,72L109.995,88" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M101.995,96.08L117.995,96.08" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

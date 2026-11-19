@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="navigatrice" affinity:id="navigatrice">
+        <path d="M14.876,52C14.876,65.104 25.622,75.726 38.878,75.726C52.133,75.726 62.879,65.104 62.879,52" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M62.872,42.336C62.872,40.127 61.081,38.336 58.872,38.336C56.663,38.336 54.872,40.127 54.872,42.336C54.872,43.441 55.32,44.442 56.044,45.165C56.677,45.799 57.345,46.467 58.043,47.165C59.533,48.654 61.16,50.281 62.878,52L62.879,42.319" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M62.879,52L110.879,100" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M125.811,97.171L137.125,108.485" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M120.149,97.17C118.587,98.732 118.587,101.268 120.149,102.83C121.711,104.392 124.247,104.392 125.809,102.83C127.371,101.268 127.371,98.732 125.809,97.17C124.247,95.607 121.711,95.607 120.149,97.17Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

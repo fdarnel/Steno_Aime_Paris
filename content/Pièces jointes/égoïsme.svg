@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="egoisme" affinity:id="égoïsme">
+        <path d="M75.734,12.003L75.734,28.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M75.734,76C68.157,76 61.401,72.487 57.004,67C53.71,62.892 51.742,57.677 51.742,52.001C51.742,38.747 62.484,28.003 75.734,28.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M67.751,67.996 C67.751,63.578 71.337,59.99 75.755,59.99 C80.172,59.99 83.758,63.578 83.758,67.996 C83.758,72.414 80.172,76 75.755,76 C71.337,76 67.751,72.414 67.751,67.996 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M100.258,50.443C100.258,54.861 96.677,58.443 92.258,58.443C87.841,58.443 84.258,54.861 84.258,50.443" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+    </g>
+</svg>

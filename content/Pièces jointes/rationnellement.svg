@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="rationnellement" affinity:id="rationnellement">
+        <path d="M92.017,28L44.015,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M97.677,33.662C96.115,35.224 93.578,35.224 92.016,33.662C90.454,32.1 90.454,29.564 92.016,28.002C93.578,26.44 96.115,26.44 97.677,28.002C99.239,29.564 99.239,32.1 97.677,33.662Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M86.845,18.749L102.845,18.749" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M107.985,30.829C107.985,31.403 107.519,31.869 106.945,31.869C106.371,31.869 105.905,31.403 105.905,30.829C105.905,30.255 106.371,29.789 106.945,29.789C107.519,29.789 107.985,30.255 107.985,30.829" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

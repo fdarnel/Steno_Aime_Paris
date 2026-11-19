@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="_-j--ch---a--an--oi---s--z--proc" affinity:id="(j, ch)-(a, an, oi)-(s, z) proc">
+        <path d="M76.000,27.997 C76.000,54.525 54.528,76.000 28.000,76.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2px;"/>
+        <path d="M76.000,20.003 L76.000,28.003 L68.000,28.003 C63.582,28.003 60.000,24.421 60.000,20.003 C60.000,15.585 63.582,12.003 68.000,12.003 C72.418,12.003 76.000,15.585 76.000,20.003 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:2.08px;stroke-linejoin:round;"/>
+        <path d="M124.000,27.997 L76.000,27.997" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

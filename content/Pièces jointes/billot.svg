@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0.000 0.000 152.000 152.000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="billot">
+        <path d="M58.993,76.000 L58.993,28.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,0);stroke-width:2.08px;"/>
+        <path d="M76.990,75.999 C74.229,78.331 70.935,81.685 66.065,82.329 C61.879,82.882 58.993,81.145 58.993,76.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M77.007,56.672 C77.007,52.255 80.586,48.672 85.004,48.672 C89.424,48.672 93.007,52.255 93.007,56.672 C93.004,58.883 92.110,60.883 90.659,62.331 C89.394,63.596 88.057,64.932 86.662,66.328 C83.682,69.308 80.429,72.563 76.992,75.999 L76.989,56.639" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+    </g>
+</svg>

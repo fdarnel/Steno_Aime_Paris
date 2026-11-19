@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="(5) point">
+        <path d="M79.449,28.000L63.449,28.000L63.449,49.007L71.467,49.007C75.885,49.007 79.467,52.589 79.467,57.007L79.449,68.000C79.449,72.418 75.885,76.000 71.467,76.000C67.048,76.000 63.431,72.418 63.431,68.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M88.569,28.000C88.569,28.574 88.103,29.040 87.529,29.040C86.955,29.040 86.489,28.574 86.489,28.000C86.489,27.426 86.955,26.960 87.529,26.960C88.103,26.960 88.569,27.426 88.569,28.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,0);stroke-width:2.08px;"/>
+    </g>
+</svg>

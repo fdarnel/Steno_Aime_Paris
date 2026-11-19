@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="ascensionnel" affinity:id="ascensionnel">
+        <path d="M50.002,84.008C52.211,84.008 54.004,82.214 54.004,80.005C54.004,77.796 52.211,76.003 50.002,76.003C47.793,76.003 46,77.796 46,80.005C46,82.214 47.793,84.008 50.002,84.008Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M50,76.008L98.002,76.008" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M98,84.008C95.791,84.008 93.998,82.214 93.998,80.005C93.998,77.796 95.791,76.003 98,76.003C100.209,76.003 102.002,77.796 102.002,80.005C102.002,82.214 100.209,84.008 98,84.008Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M90,67.904L106,67.904" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

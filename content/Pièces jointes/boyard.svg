@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="boyard">
+        <path d="M58.822,28L58.822,76.003" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path id="oa" d="M58.822,76L58.822,84C58.822,88.418 55.24,92 50.822,92C46.404,92 42.822,88.418 42.822,84C42.822,79.582 46.404,76 50.822,76L62.833,75.987L62.833,75.991C63.857,75.991 64.882,76.382 65.664,77.164C67.228,78.728 67.228,81.263 65.664,82.827C64.1,84.391 61.565,84.391 60.001,82.827C58.437,81.263 58.437,78.728 60.001,77.164L60.001,77.177L61.178,76" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M61.178,75.987L109.178,27.987" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;stroke-miterlimit:28.654;"/>
+    </g>
+</svg>

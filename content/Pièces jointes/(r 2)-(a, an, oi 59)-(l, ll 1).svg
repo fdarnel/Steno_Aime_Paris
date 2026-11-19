@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
+    <g id="g">
+        <path d="M0.450,76.000L103.552,28.000" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M103.552,28.000L105.864,26.924C107.476,26.173 109.389,26.577 110.561,27.914C111.733,29.251 111.881,31.201 110.925,32.700C109.970,34.199 108.139,34.888 106.433,34.390C104.726,33.892 103.552,32.328 103.552,30.550L103.552,28.000" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M103.553,28.000C103.553,14.749 114.296,4.007 127.549,4.007C140.804,4.007 151.549,14.749 151.549,28.000" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="12.801 0 222.394 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="l'adversaire">
+        <path d="M75.999,75.985C75.999,68.408 72.485,61.652 66.999,57.255C62.89,53.962 57.675,51.993 52,51.993C38.746,51.993 28.001,62.735 28.001,75.985" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M74.822,74.809L75.999,75.985L75.994,77.639C75.994,78.664 75.603,79.689 74.822,80.47C73.26,82.032 70.724,82.032 69.162,80.47C67.6,78.908 67.6,76.371 69.162,74.809C70.724,73.247 73.26,73.247 74.822,74.809Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M123.999,123.985L75.999,75.985" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M123.999,123.972L171.995,123.972" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+        <path d="M171.995,123.985L219.995,75.985" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.08px;"/>
+    </g>
+</svg>

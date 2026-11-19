@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0.196 0.000 152.000 152.000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
+    <g id="g" affinity:id="bouillante">
+        <path d="M79.995,76.000 L79.995,28.004" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,0);stroke-width:2.08px;"/>
+        <path d="M80.000,76.000 C80.000,71.583 83.582,68.002 88.000,68.002 C92.418,68.002 96.000,71.583 96.000,76.000" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M95.987,76.004 L95.987,77.658 L95.991,77.658 C95.991,78.683 96.382,79.708 97.164,80.490 C98.728,82.053 101.263,82.053 102.827,80.490 C104.391,78.926 104.391,76.390 102.827,74.827 C101.263,73.263 98.728,73.263 97.164,74.827 L97.177,74.827 L96.000,76.004 L95.987,76.004 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M96.000,76.004 L48.000,124.004" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,0);stroke-width:2.08px;"/>
+    </g>
+</svg>
