@@ -5,8 +5,8 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: github.com/fdarnel/Steno_Aime_Paris
+  locale: fr-FR
+  baseUrl: fdarnel.github.io/Steno_Aime_Paris
   ignorePatterns:
     - private
     - templates
