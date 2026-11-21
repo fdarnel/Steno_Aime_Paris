@@ -2,7 +2,7 @@
 publish: true
 title: Sténographie Aimé Paris
 created: 2026-11-19T09:48:46.203Z
-modified: 2026-11-19T11:01:07.057Z
+modified: 2026-11-20T09:33:29.636Z
 ---
 
 # France #FR
@@ -17,8 +17,8 @@ modified: 2026-11-19T11:01:07.057Z
 
 ## Jules Meysmans #BE
 
-Sténographie anglaise - Engelsche Stenographie - 1940
-English Shorthand - 1940
+### Sténographie anglaise - Engelsche Stenographie - 1940
+
 [[English Shortand 1940 - Jules Meysmans - Title Page]]
 
 ---

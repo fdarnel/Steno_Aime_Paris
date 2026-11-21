@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:28.654;">
     <g id="_-ou-1---o--on-62---n--gn-2-" affinity:id="(ou 1)-(o, on 62)-(n, gn 2)">
-        <path d="M44.001,52C44.001,47.582 47.583,44 52.001,44C56.42,44 60.001,47.582 60.001,52" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
-        <path id="o--on-62" affinity:id="o, on 62" d="M59.284,60.055C60.033,56.713 59.999,54.726 60.001,52C60.005,48.136 56.161,47.555 54.345,48.833C52.252,50.307 49.834,53.324 47.803,59.39C45.414,66.527 48.961,69.712 52.412,69.244C55.577,68.816 57.964,65.951 59.284,60.055Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
-        <path d="M114,52C105.715,58.997 95.834,69.059 81.226,70.99C68.667,72.65 60.007,67.439 60.007,52.003" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M44.001,56.715C44.001,52.297 47.583,48.715 52.001,48.715C56.42,48.715 60.001,52.297 60.001,56.715" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path id="o--on-62" affinity:id="o, on 62" d="M59.284,64.77C60.033,61.428 59.999,59.441 60.001,56.715C60.005,52.851 56.161,52.27 54.345,53.548C52.252,55.022 49.834,58.039 47.803,64.105C45.414,71.242 48.961,74.427 52.412,73.959C55.577,73.531 57.964,70.666 59.284,64.77Z" style="fill:none;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M114,56.715C105.715,63.712 95.834,73.774 81.226,75.705C68.667,77.365 60.007,72.154 60.007,56.718" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
     </g>
 </svg>

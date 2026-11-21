@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 152 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.654;">
     <g id="g">
-        <path d="M72.004,54.995 C72.004,51.957 70.222,49.004 65.996,49.004 C63.208,49.004 59.035,51.783 55.994,54.995" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
-        <path d="M64.007,58.995 C64.007,61.204 65.797,62.995 68.007,62.995 C70.216,62.995 72.007,61.204 72.007,58.995 L72.007,54.995 C72.007,54.995 68.007,54.995 68.007,54.995 C65.797,54.995 64.007,56.786 64.007,58.995 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
-        <path d="M72.007,102.995 C85.261,102.995 96.007,92.015 96.007,78.995 C96.007,65.975 85.261,54.995 72.007,54.995" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M72.004,28 C72.004,24.962 70.222,22.009 65.996,22.009 C63.208,22.009 59.035,24.788 55.994,28" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
+        <path d="M64.007,32 C64.007,34.209 65.797,36 68.007,36 C70.216,36 72.007,34.209 72.007,32 L72.007,28 C72.007,28 68.007,28 68.007,28 C65.797,28 64.007,29.791 64.007,32 Z" style="fill:none;fill-rule:nonzero;stroke:rgb(242,13,13);stroke-width:2.08px;"/>
+        <path d="M72.007,76 C85.261,76 96.007,65.02 96.007,52 C96.007,38.98 85.261,28 72.007,28" style="fill:none;fill-rule:nonzero;stroke:rgb(0,0,255);stroke-width:2.08px;"/>
     </g>
 </svg>
